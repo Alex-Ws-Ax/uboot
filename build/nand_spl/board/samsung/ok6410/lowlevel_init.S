@@ -1,0 +1,1 @@
+/home/ws/uboot/u-boot-2013.04-rc1/board/samsung/ok6410/lowlevel_init.S
